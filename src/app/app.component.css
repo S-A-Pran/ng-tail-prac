@@ -1,0 +1,22 @@
+.top-bar {
+  background-image: url("../assets/img/bg-top.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.miniket-rice {
+  background-image: url("../assets/img/first_bar.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.rice-collection {
+  background-image: url("../assets/img/rice_collection.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.one-hour-delivery {
+  background-image: url("../assets/img/one_hour_delivery.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
