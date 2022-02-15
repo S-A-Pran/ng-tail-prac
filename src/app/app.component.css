@@ -18,7 +18,7 @@
 .one-hour-delivery {
   background-image: url("../assets/img/second-curve.png");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
 
 .latest-product {
@@ -28,7 +28,7 @@
 }
 
 /* curve css */
-#wave {
+/* #wave {
   position: relative;
   height: 70px;
   width: 600px;
@@ -55,4 +55,18 @@
   background-color: #e0efe3;
   left: 0;
   top: 27px;
+} */
+
+.card-delivery {
+}
+.card-delivery img:first-child {
+  /* object-fit: cover; */
+  /* object-position: inherit; */
+  /* height: max-content; */
+  /* width: max-content;  */
+  /* max-width: 100%; */
+  /* min-width: 50%; */
+  /* width: 100%; */
+  /* object-fit: contain;
+  max-width: 50%; */
 }
