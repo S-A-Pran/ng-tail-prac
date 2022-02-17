@@ -22,9 +22,9 @@
 }
 
 .latest-product {
-  background-image: url("../assets/img/latest-product.png");
+  background-image: url("../assets/img/wave.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 /* curve css */
